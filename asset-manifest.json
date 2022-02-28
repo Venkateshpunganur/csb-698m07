@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://venkateshpunganur.github.io/csb-698m07/static/css/main.e95e21f7.chunk.css",
+    "main.js": "https://venkateshpunganur.github.io/csb-698m07/static/js/main.7261befa.chunk.js",
+    "main.js.map": "https://venkateshpunganur.github.io/csb-698m07/static/js/main.7261befa.chunk.js.map",
+    "runtime-main.js": "https://venkateshpunganur.github.io/csb-698m07/static/js/runtime-main.5197fdd0.js",
+    "runtime-main.js.map": "https://venkateshpunganur.github.io/csb-698m07/static/js/runtime-main.5197fdd0.js.map",
+    "static/js/2.fb48dd60.chunk.js": "https://venkateshpunganur.github.io/csb-698m07/static/js/2.fb48dd60.chunk.js",
+    "static/js/2.fb48dd60.chunk.js.map": "https://venkateshpunganur.github.io/csb-698m07/static/js/2.fb48dd60.chunk.js.map",
+    "index.html": "https://venkateshpunganur.github.io/csb-698m07/index.html",
+    "static/css/main.e95e21f7.chunk.css.map": "https://venkateshpunganur.github.io/csb-698m07/static/css/main.e95e21f7.chunk.css.map",
+    "static/js/2.fb48dd60.chunk.js.LICENSE.txt": "https://venkateshpunganur.github.io/csb-698m07/static/js/2.fb48dd60.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5197fdd0.js",
+    "static/js/2.fb48dd60.chunk.js",
+    "static/css/main.e95e21f7.chunk.css",
+    "static/js/main.7261befa.chunk.js"
+  ]
+}
